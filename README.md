@@ -23,10 +23,13 @@ NOTE: If you have issues running the app please report it [Here](https://github.
 ## 📁 Project Structure
 
 ```
-/Assets/             - Team logos and color assets  
-/Data/               - XML files for saving dynasty data  
-/Controls/           - Custom WinForms UI elements  
-/Forms/              - Main application forms (e.g., team editor, bowl tracker)
+/Icon/              -Location for storing all team and app icons/logos
+/MetaSettings/      -Contains Forms and Classes for Team Data and app Settings.
+/CFPImages/         -Location the app stores image files for the playoff that the user imports for each year.
+/Popups/            -Borderless Forms act like popups designed for quick use. windows that do not presist.
+/Years/             -Location where all XML files containing all data for each year.
+
+DB file(s) are for future updates.
 ```
 
 ## ⚠️ Disclaimer
@@ -47,10 +50,10 @@ This project is **non-commercial** and intended for **educational/personal use o
 ## 🚀 Getting Started
 
 1. Clone the repo
-2. Open the solution file in Visual Studio
+2. Open the solution file in Visual Studio - Note: app is designed for lang version .NET 8.0+
 3. Build & run the app
 
-> Optionally: drop your own team logos into `Assets/user_assets/logos/`
+> Optionally: drop your own team logos into `icons folder` then when creating team select the file.
 
 ## 📝 License
 
