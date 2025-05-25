@@ -12,9 +12,9 @@ A desktop application for managing college football seasons, teams, rankings, an
 ## 🎮 Features
 
 - Manage real or custom teams with dynamic conference assignments
-- Track team stats, standings, and national rankings by season
+- Track team stats, standings, and national rankings by season (Some features not complete)
 - Bowl game system with custom outcomes and historical tracking
-- Coaching career mode with goals and school history
+- Coaching career mode with goals and school history (Some features not complete)
 - Save/load full dynasty states using XML
 - Responsive UI styled using team colors and logos
 
