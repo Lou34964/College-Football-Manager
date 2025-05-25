@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MetaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Teams>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Air_Force_Falcons_logo-300x300.png</_imageFileName>
+      <ID>3</ID>
+      <TeamName>Air Force</TeamName>
+      <TeamPrimaryColor>#003087</TeamPrimaryColor>
+      <TeamSecondaryColor>#8A8D8F</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Akron_Zips_logo-300x300.png</_imageFileName>
+      <ID>5</ID>
+      <TeamName>Akron</TeamName>
+      <TeamPrimaryColor>#041E42</TeamPrimaryColor>
+      <TeamSecondaryColor>#A89968</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Alabama_Crimson_Tide_logo-300x300.png</_imageFileName>
+      <ID>2</ID>
+      <TeamName>Alabama</TeamName>
+      <TeamPrimaryColor>#9E1B32</TeamPrimaryColor>
+      <TeamSecondaryColor>#828A8F</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Appalachian_State_Mountaineers_logo-300x300.png</_imageFileName>
+      <ID>4</ID>
+      <TeamName>Appalachian State</TeamName>
+      <TeamPrimaryColor>#222222</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFCC00</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Arizona_Wildcats_logo-300x300.png</_imageFileName>
+      <ID>6</ID>
+      <TeamName>Arizona</TeamName>
+      <TeamPrimaryColor>#CC0033</TeamPrimaryColor>
+      <TeamSecondaryColor>#003366</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Arizona_State_Sun_Devils_logo-300x300.png</_imageFileName>
+      <ID>7</ID>
+      <TeamName>Arizona State</TeamName>
+      <TeamPrimaryColor>#8C1D40</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFC627</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Arkansas_Razorbacks_logo-300x300.png</_imageFileName>
+      <ID>8</ID>
+      <TeamName>Arkansas</TeamName>
+      <TeamPrimaryColor>#9D2235</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Arkansas_State_Red_Wolves_logo-300x300.png</_imageFileName>
+      <ID>9</ID>
+      <TeamName>Arkansas State</TeamName>
+      <TeamPrimaryColor>#CC092F</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Army_West_Point_Black_Knights_logo-300x300.png</_imageFileName>
+      <ID>10</ID>
+      <TeamName>Army</TeamName>
+      <TeamPrimaryColor>#D4BF91</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Auburn_Tigers_logo-300x300.png</_imageFileName>
+      <ID>11</ID>
+      <TeamName>Auburn</TeamName>
+      <TeamPrimaryColor>#0C2340</TeamPrimaryColor>
+      <TeamSecondaryColor>#E87722</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Ball_State_Cardinals_logo-300x300.png</_imageFileName>
+      <ID>12</ID>
+      <TeamName>Ball State</TeamName>
+      <TeamPrimaryColor>#BA0C2F</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Baylor_Bears_logo-300x300.png</_imageFileName>
+      <ID>13</ID>
+      <TeamName>Baylor</TeamName>
+      <TeamPrimaryColor>#154734</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFB81C</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Boise_State_Broncos_Logo-300x300.png</_imageFileName>
+      <ID>14</ID>
+      <TeamName>Boise State</TeamName>
+      <TeamPrimaryColor>#D64309</TeamPrimaryColor>
+      <TeamSecondaryColor>#0033A0</TeamSecondaryColor>
+      <Conference>Pac12</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Boston_College_Eagles_logo-300x300.png</_imageFileName>
+      <ID>15</ID>
+      <TeamName>Boston College</TeamName>
+      <TeamPrimaryColor>#98002E</TeamPrimaryColor>
+      <TeamSecondaryColor>#BC9B6A</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Bowling_Green_Falcons_logo-300x300.png</_imageFileName>
+      <ID>16</ID>
+      <TeamName>Bowling Green</TeamName>
+      <TeamPrimaryColor>#FE5000</TeamPrimaryColor>
+      <TeamSecondaryColor>#4F2C1D</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Buffalo_Bulls_logo-300x300.png</_imageFileName>
+      <ID>17</ID>
+      <TeamName>Buffalo</TeamName>
+      <TeamPrimaryColor>#005BBB</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\BYU_Cougars_logo-300x300.png</_imageFileName>
+      <ID>1</ID>
+      <TeamName>BYU</TeamName>
+      <TeamPrimaryColor>#0057B8</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\California_Golden_Bears_logo-300x300.png</_imageFileName>
+      <ID>18</ID>
+      <TeamName>CAL</TeamName>
+      <TeamPrimaryColor>#003262</TeamPrimaryColor>
+      <TeamSecondaryColor>#FDB515</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Central_Michigan_Chippewas_logo-300x300.png</_imageFileName>
+      <ID>19</ID>
+      <TeamName>Centeral Michigan</TeamName>
+      <TeamPrimaryColor>#6A0032</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFC82E</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Charlotte_49ers_logo-300x300.png</_imageFileName>
+      <ID>20</ID>
+      <TeamName>Charlotte</TeamName>
+      <TeamPrimaryColor>#046A38</TeamPrimaryColor>
+      <TeamSecondaryColor>#27251F</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Cincinnati_Bearcats_logo-300x300.png</_imageFileName>
+      <ID>21</ID>
+      <TeamName>Cincinnati</TeamName>
+      <TeamPrimaryColor>#E00122</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Clemson_Tigers_logo-300x300.png</_imageFileName>
+      <ID>22</ID>
+      <TeamName>Clemson</TeamName>
+      <TeamPrimaryColor>#F56600</TeamPrimaryColor>
+      <TeamSecondaryColor>#522D80</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Coastal_Carolina_Chanticleers_logo-300x300.png</_imageFileName>
+      <ID>23</ID>
+      <TeamName>Coastal Carolina</TeamName>
+      <TeamPrimaryColor>#006F71</TeamPrimaryColor>
+      <TeamSecondaryColor>#111111</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Colorado_Buffaloes_logo-300x300.png</_imageFileName>
+      <ID>24</ID>
+      <TeamName>Colorado</TeamName>
+      <TeamPrimaryColor>#CFB87C</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Colorado_State_Rams_logo-300x300.png</_imageFileName>
+      <ID>25</ID>
+      <TeamName>Colorado State</TeamName>
+      <TeamPrimaryColor>#1E4D2B</TeamPrimaryColor>
+      <TeamSecondaryColor>#C8C372</TeamSecondaryColor>
+      <Conference>Pac12</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Duke_Blue_Devils_logo-300x300.png</_imageFileName>
+      <ID>26</ID>
+      <TeamName>Duke</TeamName>
+      <TeamPrimaryColor>#003087</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\East_Carolina_Pirates_logo-300x300.png</_imageFileName>
+      <ID>27</ID>
+      <TeamName>East Carolina</TeamName>
+      <TeamPrimaryColor>#592A8A</TeamPrimaryColor>
+      <TeamSecondaryColor>#FDC82F</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Eastern_Michigan_Eagles_logo-300x300.png</_imageFileName>
+      <ID>28</ID>
+      <TeamName>East Michigan</TeamName>
+      <TeamPrimaryColor>#006633</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\Icons\FCS.png</_imageFileName>
+      <ID>136</ID>
+      <TeamName>FCS East</TeamName>
+      <TeamPrimaryColor>#FFFF00</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Independent</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\Icons\FCS.png</_imageFileName>
+      <ID>137</ID>
+      <TeamName>FCS MidWest</TeamName>
+      <TeamPrimaryColor>#00FF00</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Independent</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\Icons\FCS.png</_imageFileName>
+      <ID>135</ID>
+      <TeamName>FCS NorthWest</TeamName>
+      <TeamPrimaryColor>#FF0000</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Independent</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\Icons\FCS.png</_imageFileName>
+      <ID>138</ID>
+      <TeamName>FCS Southeast</TeamName>
+      <TeamPrimaryColor>#00FFFF</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Independent</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\Icons\FCS.png</_imageFileName>
+      <ID>139</ID>
+      <TeamName>FCS West</TeamName>
+      <TeamPrimaryColor>#FF8040</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Independent</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\FIU-Panthers-Logo-300x300.png</_imageFileName>
+      <ID>31</ID>
+      <TeamName>FIU</TeamName>
+      <TeamPrimaryColor>#081E3F</TeamPrimaryColor>
+      <TeamSecondaryColor>#B6862C</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Florida_Gators_logo-300x300.png</_imageFileName>
+      <ID>29</ID>
+      <TeamName>Florida</TeamName>
+      <TeamPrimaryColor>#0021A5</TeamPrimaryColor>
+      <TeamSecondaryColor>#FA4616</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Florida_Atlantic_Owls_logo-300x300.png</_imageFileName>
+      <ID>30</ID>
+      <TeamName>Florida Atlantic</TeamName>
+      <TeamPrimaryColor>#003366</TeamPrimaryColor>
+      <TeamSecondaryColor>#CC0000</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Florida_State_Seminoles_logo-300x300.png</_imageFileName>
+      <ID>32</ID>
+      <TeamName>Florida State</TeamName>
+      <TeamPrimaryColor>#782F40</TeamPrimaryColor>
+      <TeamSecondaryColor>#CEB888</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Fresno_State_Bulldogs_logo-300x300.png</_imageFileName>
+      <ID>33</ID>
+      <TeamName>Fresno State</TeamName>
+      <TeamPrimaryColor>#DB0032</TeamPrimaryColor>
+      <TeamSecondaryColor>#002E6D</TeamSecondaryColor>
+      <Conference>Pac12</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Georgia_Bulldogs_logo-300x300.png</_imageFileName>
+      <ID>34</ID>
+      <TeamName>Georgia</TeamName>
+      <TeamPrimaryColor>#BA0C2F</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Georgia_Southern_Eagles_logo-300x300.png</_imageFileName>
+      <ID>35</ID>
+      <TeamName>Georgia Southern</TeamName>
+      <TeamPrimaryColor>#011E41</TeamPrimaryColor>
+      <TeamSecondaryColor>#87714D</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Georgia_State_Panthers_logo-300x300.png</_imageFileName>
+      <ID>36</ID>
+      <TeamName>Georgia State</TeamName>
+      <TeamPrimaryColor>#0039A6</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Georgia_Tech_Yellow_Jackets_logo-300x300.png</_imageFileName>
+      <ID>37</ID>
+      <TeamName>Georgia Tech</TeamName>
+      <TeamPrimaryColor>#B3A369</TeamPrimaryColor>
+      <TeamSecondaryColor>#003057</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Hawaii_Rainbow_Warriors_logo-300x300.png</_imageFileName>
+      <ID>38</ID>
+      <TeamName>Hawai'i</TeamName>
+      <TeamPrimaryColor>#024731</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Houston_Cougars_logo-300x300.png</_imageFileName>
+      <ID>39</ID>
+      <TeamName>Houston</TeamName>
+      <TeamPrimaryColor>#C8102E</TeamPrimaryColor>
+      <TeamSecondaryColor>#B2B4B2</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Illinois_Fighting_Illini_logo-300x300.png</_imageFileName>
+      <ID>40</ID>
+      <TeamName>Illinois</TeamName>
+      <TeamPrimaryColor>#13294B</TeamPrimaryColor>
+      <TeamSecondaryColor>#E84A27</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Indiana_Hoosiers_logo-300x300.png</_imageFileName>
+      <ID>41</ID>
+      <TeamName>Indiana</TeamName>
+      <TeamPrimaryColor>#990000</TeamPrimaryColor>
+      <TeamSecondaryColor>#EEEDEB</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Iowa_Hawkeyes_logo-300x300.png</_imageFileName>
+      <ID>42</ID>
+      <TeamName>Iowa</TeamName>
+      <TeamPrimaryColor>#FFCD00</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Iowa_State_Cyclones_logo-300x300.png</_imageFileName>
+      <ID>43</ID>
+      <TeamName>Iowa State</TeamName>
+      <TeamPrimaryColor>#C8102E</TeamPrimaryColor>
+      <TeamSecondaryColor>#F1BE48</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Jacksonville-State-Gamecocks-logo-300x300.png</_imageFileName>
+      <ID>44</ID>
+      <TeamName>Jacksonville State</TeamName>
+      <TeamPrimaryColor>#CC0000</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\James_Madison_Dukes_logo-300x300.png</_imageFileName>
+      <ID>45</ID>
+      <TeamName>James Madison</TeamName>
+      <TeamPrimaryColor>#450084</TeamPrimaryColor>
+      <TeamSecondaryColor>#CBB677</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Kansas_Jayhawks_logo-300x300.png</_imageFileName>
+      <ID>46</ID>
+      <TeamName>Kansas</TeamName>
+      <TeamPrimaryColor>#0051BA</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFC82D</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Kansas_State_Wildcats_logo-300x300.png</_imageFileName>
+      <ID>47</ID>
+      <TeamName>Kansas State</TeamName>
+      <TeamPrimaryColor>#512888</TeamPrimaryColor>
+      <TeamSecondaryColor>#D1D1D1</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Kennesaw-State-Owls-logo-300x300.png</_imageFileName>
+      <ID>48</ID>
+      <TeamName>Kennesaw State</TeamName>
+      <TeamPrimaryColor>#FDBB30</TeamPrimaryColor>
+      <TeamSecondaryColor>#0B1315</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Kent_State_Golden_Flashes-300x300.png</_imageFileName>
+      <ID>49</ID>
+      <TeamName>Kent State</TeamName>
+      <TeamPrimaryColor>#002664</TeamPrimaryColor>
+      <TeamSecondaryColor>#EAAB00</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Kentucky_Wildcats_logo-300x300.png</_imageFileName>
+      <ID>50</ID>
+      <TeamName>Kentucky</TeamName>
+      <TeamPrimaryColor>#0033A0</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Liberty_Flames_logo-300x300.png</_imageFileName>
+      <ID>51</ID>
+      <TeamName>Liberty</TeamName>
+      <TeamPrimaryColor>#002D62</TeamPrimaryColor>
+      <TeamSecondaryColor>#C41230</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Louisiana-Lafayette_Ragin_Cajuns_logo-300x300.png</_imageFileName>
+      <ID>52</ID>
+      <TeamName>Louisiana</TeamName>
+      <TeamPrimaryColor>#CE181E</TeamPrimaryColor>
+      <TeamSecondaryColor>#0A0203</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Louisiana_Tech_Bulldogs_logo-300x300.png</_imageFileName>
+      <ID>53</ID>
+      <TeamName>Louisisana Tech</TeamName>
+      <TeamPrimaryColor>#002F8B</TeamPrimaryColor>
+      <TeamSecondaryColor>#E31B23</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Louisville_Cardinals_logo-300x300.png</_imageFileName>
+      <ID>54</ID>
+      <TeamName>Louisville</TeamName>
+      <TeamPrimaryColor>#AD0000</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\LSU_Tigers-300x300.png</_imageFileName>
+      <ID>55</ID>
+      <TeamName>LSU</TeamName>
+      <TeamPrimaryColor>#461D7C</TeamPrimaryColor>
+      <TeamSecondaryColor>#FDD023</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Marshall_Thundering_Herd_logo-300x300.png</_imageFileName>
+      <ID>56</ID>
+      <TeamName>Marshall</TeamName>
+      <TeamPrimaryColor>#00B140</TeamPrimaryColor>
+      <TeamSecondaryColor>#27251F</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Maryland_Terrapins_logo-300x300.png</_imageFileName>
+      <ID>57</ID>
+      <TeamName>Maryland</TeamName>
+      <TeamPrimaryColor>#E03A3E</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Memphis_Tigers_logo-300x300.png</_imageFileName>
+      <ID>58</ID>
+      <TeamName>Memphis</TeamName>
+      <TeamPrimaryColor>#003087</TeamPrimaryColor>
+      <TeamSecondaryColor>#898D8D</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Miami_Hurricanes_logo-300x300.png</_imageFileName>
+      <ID>59</ID>
+      <TeamName>Miami</TeamName>
+      <TeamPrimaryColor>#F47321</TeamPrimaryColor>
+      <TeamSecondaryColor>#005030</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Miami_OH_Redhawks_logo-300x300.png</_imageFileName>
+      <ID>60</ID>
+      <TeamName>Miami Ohio</TeamName>
+      <TeamPrimaryColor>#B61E2E</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Michigan_Wolverines_logo-300x300.png</_imageFileName>
+      <ID>61</ID>
+      <TeamName>Michigan</TeamName>
+      <TeamPrimaryColor>#00274C</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFCB05</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Michigan_State_Spartans_logo-300x300.png</_imageFileName>
+      <ID>62</ID>
+      <TeamName>Michigan State</TeamName>
+      <TeamPrimaryColor>#18453B</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Middle-Tennessee-Blue-Raiders-logo-300x300.png</_imageFileName>
+      <ID>63</ID>
+      <TeamName>Middle Tennessee</TeamName>
+      <TeamPrimaryColor>#0066CC</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Minnesota_Golden_Gophers_logo-300x300.png</_imageFileName>
+      <ID>64</ID>
+      <TeamName>Minnesota</TeamName>
+      <TeamPrimaryColor>#7A0019</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFCC33</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Mississippi_State_Bulldogs_logo-300x300.png</_imageFileName>
+      <ID>65</ID>
+      <TeamName>Mississippi State</TeamName>
+      <TeamPrimaryColor>#660000</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Missouri_Tigers_logo-300x300.png</_imageFileName>
+      <ID>66</ID>
+      <TeamName>Missouri</TeamName>
+      <TeamPrimaryColor>#000000</TeamPrimaryColor>
+      <TeamSecondaryColor>#F1B82D</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Navy_Midshipmen_logo-300x300.png</_imageFileName>
+      <ID>67</ID>
+      <TeamName>Navy</TeamName>
+      <TeamPrimaryColor>#00205B</TeamPrimaryColor>
+      <TeamSecondaryColor>#C5B783</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\North_Carolina_State_Wolfpack_logo-300x300.png</_imageFileName>
+      <ID>68</ID>
+      <TeamName>NC State</TeamName>
+      <TeamPrimaryColor>#CC0000</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Nebraska_Cornhuskers_logo-300x300.png</_imageFileName>
+      <ID>69</ID>
+      <TeamName>Nebraska</TeamName>
+      <TeamPrimaryColor>#E41C38</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Nevada_Wolf_Pack_logo-300x300.png</_imageFileName>
+      <ID>70</ID>
+      <TeamName>Nevada</TeamName>
+      <TeamPrimaryColor>#003366</TeamPrimaryColor>
+      <TeamSecondaryColor>#807F84</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\New_Mexico_Lobos_logo-300x300.png</_imageFileName>
+      <ID>71</ID>
+      <TeamName>New Mexico</TeamName>
+      <TeamPrimaryColor>#BA0C2F</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\New_Mexico_State_Aggies_logo-300x300.png</_imageFileName>
+      <ID>72</ID>
+      <TeamName>New Mexico State</TeamName>
+      <TeamPrimaryColor>#861F41</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\North_Carolina_Tar_Heels_logo-300x300.png</_imageFileName>
+      <ID>73</ID>
+      <TeamName>North Carolina</TeamName>
+      <TeamPrimaryColor>#7BAFD4</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Northern_Illinois_Huskies-300x300.png</_imageFileName>
+      <ID>75</ID>
+      <TeamName>North Illinois</TeamName>
+      <TeamPrimaryColor>#BA0C2F</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\North_Texas_Mean_Green_logo-300x300.png</_imageFileName>
+      <ID>74</ID>
+      <TeamName>North Texas</TeamName>
+      <TeamPrimaryColor>#00853E</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Northwestern_Wildcats_logo-300x300.png</_imageFileName>
+      <ID>76</ID>
+      <TeamName>Northwestern</TeamName>
+      <TeamPrimaryColor>#4E2A84</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Notre_Dame_Fighting_Irish_logo-300x300.png</_imageFileName>
+      <ID>77</ID>
+      <TeamName>Notre Dame</TeamName>
+      <TeamPrimaryColor>#0C2340</TeamPrimaryColor>
+      <TeamSecondaryColor>#AE9142</TeamSecondaryColor>
+      <Conference>Independent</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Ohio_Bobcats_logo-300x300.png</_imageFileName>
+      <ID>78</ID>
+      <TeamName>Ohio</TeamName>
+      <TeamPrimaryColor>#00694E</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Ohio_State_Buckeyes_logo-300x300.png</_imageFileName>
+      <ID>79</ID>
+      <TeamName>Ohio State</TeamName>
+      <TeamPrimaryColor>#BB0000</TeamPrimaryColor>
+      <TeamSecondaryColor>#666666</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Oklahoma_Sooners_logo-300x300.png</_imageFileName>
+      <ID>80</ID>
+      <TeamName>Oklahoma</TeamName>
+      <TeamPrimaryColor>#841617</TeamPrimaryColor>
+      <TeamSecondaryColor>#FDF9D8</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Oklahoma_State_Cowboys_logo-300x300.png</_imageFileName>
+      <ID>81</ID>
+      <TeamName>Oklahoma State</TeamName>
+      <TeamPrimaryColor>#FF7300</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Old_Dominion_Monarchs_logo-300x300.png</_imageFileName>
+      <ID>82</ID>
+      <TeamName>Old Dominion</TeamName>
+      <TeamPrimaryColor>#003057</TeamPrimaryColor>
+      <TeamSecondaryColor>#7C878E</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Ole_Miss_Rebels_logo-300x300.png</_imageFileName>
+      <ID>83</ID>
+      <TeamName>Ole Miss</TeamName>
+      <TeamPrimaryColor>#CE1126</TeamPrimaryColor>
+      <TeamSecondaryColor>#14213D</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Oregon_Ducks_logo-300x300.png</_imageFileName>
+      <ID>84</ID>
+      <TeamName>Oregon</TeamName>
+      <TeamPrimaryColor>#154733</TeamPrimaryColor>
+      <TeamSecondaryColor>#FEE123</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Oregon_State_Beavers_logo-300x300.png</_imageFileName>
+      <ID>85</ID>
+      <TeamName>Oregon State</TeamName>
+      <TeamPrimaryColor>#DC4405</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Pac12</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Penn_State_Nittany_Lions_logo-300x300.png</_imageFileName>
+      <ID>86</ID>
+      <TeamName>Penn State</TeamName>
+      <TeamPrimaryColor>#041E42</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Pitt_Panthers_logo-300x300.png</_imageFileName>
+      <ID>87</ID>
+      <TeamName>Pittsburgh</TeamName>
+      <TeamPrimaryColor>#003594</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFB81C</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Purdue_Boilermakers_logo-300x300.png</_imageFileName>
+      <ID>88</ID>
+      <TeamName>Purdue</TeamName>
+      <TeamPrimaryColor>#CEB888</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Rice_Owls_logo-300x300.png</_imageFileName>
+      <ID>89</ID>
+      <TeamName>Rice</TeamName>
+      <TeamPrimaryColor>#00205B</TeamPrimaryColor>
+      <TeamSecondaryColor>#C1C6C8</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Rutgers_Scarlet_Knights_logo-300x300.png</_imageFileName>
+      <ID>90</ID>
+      <TeamName>Rutgers</TeamName>
+      <TeamPrimaryColor>#CC0033</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Sam-Houston-State-Bearkats-logo-300x300.png</_imageFileName>
+      <ID>91</ID>
+      <TeamName>Sam Houston</TeamName>
+      <TeamPrimaryColor>#FE5100</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\San_Diego_State_Aztecs_logo-300x300.png</_imageFileName>
+      <ID>92</ID>
+      <TeamName>San Diego State</TeamName>
+      <TeamPrimaryColor>#A6192E</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>Pac12</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\San_Jose_State_Spartans_logo-300x300.png</_imageFileName>
+      <ID>93</ID>
+      <TeamName>San Jose State</TeamName>
+      <TeamPrimaryColor>#0055A2</TeamPrimaryColor>
+      <TeamSecondaryColor>#E5A823</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\SMU_Mustang_logo-300x300.png</_imageFileName>
+      <ID>94</ID>
+      <TeamName>SMU</TeamName>
+      <TeamPrimaryColor>#0033A0</TeamPrimaryColor>
+      <TeamSecondaryColor>#C8102E</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\South_Alabama_Jaguars_logo-300x300.png</_imageFileName>
+      <ID>95</ID>
+      <TeamName>South Alabama</TeamName>
+      <TeamPrimaryColor>#00205B</TeamPrimaryColor>
+      <TeamSecondaryColor>#BF0D3E</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\South_Carolina_Gamecocks_logo-300x300.png</_imageFileName>
+      <ID>96</ID>
+      <TeamName>South Carolina</TeamName>
+      <TeamPrimaryColor>#73000A</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Southern_Miss_Golden_Eagles_logo-300x300.png</_imageFileName>
+      <ID>97</ID>
+      <TeamName>Southern Mississippi</TeamName>
+      <TeamPrimaryColor>#000000</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFAB00</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Stanford_Cardinal_logo-300x300.png</_imageFileName>
+      <ID>98</ID>
+      <TeamName>Stanford</TeamName>
+      <TeamPrimaryColor>#8C1515</TeamPrimaryColor>
+      <TeamSecondaryColor>#2E2D29</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Syracuse_Orange_logo-300x300.png</_imageFileName>
+      <ID>99</ID>
+      <TeamName>Syracuse</TeamName>
+      <TeamPrimaryColor>#F76900</TeamPrimaryColor>
+      <TeamSecondaryColor>#000E54</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\TCU_Horned_Frogs_logo-300x300.png</_imageFileName>
+      <ID>100</ID>
+      <TeamName>TCU</TeamName>
+      <TeamPrimaryColor>#4D1979</TeamPrimaryColor>
+      <TeamSecondaryColor>#A3A9AC</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Temple_Owls_logo-300x300.png</_imageFileName>
+      <ID>101</ID>
+      <TeamName>Temple</TeamName>
+      <TeamPrimaryColor>#9D2235</TeamPrimaryColor>
+      <TeamSecondaryColor>#C1C6C8</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Tennessee_Volunteers_logo-300x300.png</_imageFileName>
+      <ID>102</ID>
+      <TeamName>Tennessee</TeamName>
+      <TeamPrimaryColor>#FF8200</TeamPrimaryColor>
+      <TeamSecondaryColor>#58595B</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Texas_Longhorns_logo-300x300.png</_imageFileName>
+      <ID>103</ID>
+      <TeamName>Texas</TeamName>
+      <TeamPrimaryColor>#BF5700</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Texas_AM_University_logo-300x300.png</_imageFileName>
+      <ID>104</ID>
+      <TeamName>Texas A&amp;M</TeamName>
+      <TeamPrimaryColor>#500000</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Texas_State_Bobcats_logo-300x300.png</_imageFileName>
+      <ID>105</ID>
+      <TeamName>Texas State</TeamName>
+      <TeamPrimaryColor>#501214</TeamPrimaryColor>
+      <TeamSecondaryColor>#8D734A</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Texas_Tech_Red_Raiders_logo-300x300.png</_imageFileName>
+      <ID>106</ID>
+      <TeamName>Texas Tech</TeamName>
+      <TeamPrimaryColor>#CC0000</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Toledo_Rockets_logo-300x300.png</_imageFileName>
+      <ID>107</ID>
+      <TeamName>Toledo</TeamName>
+      <TeamPrimaryColor>#15397F</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFDA00</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Troy_Trojans_logo-300x300.png</_imageFileName>
+      <ID>108</ID>
+      <TeamName>Troy</TeamName>
+      <TeamPrimaryColor>#8A2432</TeamPrimaryColor>
+      <TeamSecondaryColor>#B3B5B8</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Tulane_Green_Wave_logo-300x300.png</_imageFileName>
+      <ID>109</ID>
+      <TeamName>Tulane</TeamName>
+      <TeamPrimaryColor>#006747</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Tulsa_Golden_Hurricane_logo-300x300.png</_imageFileName>
+      <ID>110</ID>
+      <TeamName>Tulsa</TeamName>
+      <TeamPrimaryColor>#002D72</TeamPrimaryColor>
+      <TeamSecondaryColor>#C8102E</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Alabama-Birmingham-Blazers-logo-300x300.png</_imageFileName>
+      <ID>111</ID>
+      <TeamName>UAB</TeamName>
+      <TeamPrimaryColor>#006341</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\UCF_Knights_logo-300x300.png</_imageFileName>
+      <ID>112</ID>
+      <TeamName>UCF</TeamName>
+      <TeamPrimaryColor>#BA9B37</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\UCLA_Bruins-300x300.png</_imageFileName>
+      <ID>113</ID>
+      <TeamName>UCLA</TeamName>
+      <TeamPrimaryColor>#2D68C4</TeamPrimaryColor>
+      <TeamSecondaryColor>#F2A900</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Connecticut_Huskies_logo-300x300.png</_imageFileName>
+      <ID>114</ID>
+      <TeamName>UConn</TeamName>
+      <TeamPrimaryColor>#000E2F</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Louisiana-Monroe_Warhawks_logo-300x300.png</_imageFileName>
+      <ID>115</ID>
+      <TeamName>UL Monroe</TeamName>
+      <TeamPrimaryColor>#840029</TeamPrimaryColor>
+      <TeamSecondaryColor>#FDB913</TeamSecondaryColor>
+      <Conference>Sunbelt</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\UMass_Amherst_Minutemen_logo-300x300.png</_imageFileName>
+      <ID>116</ID>
+      <TeamName>UMass</TeamName>
+      <TeamPrimaryColor>#572932</TeamPrimaryColor>
+      <TeamSecondaryColor>#B1B3B3</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\UNLV_Rebels_logo-300x300.png</_imageFileName>
+      <ID>117</ID>
+      <TeamName>UNLV</TeamName>
+      <TeamPrimaryColor>#CF0A2C</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\USC_Trojans_logo-300x300.png</_imageFileName>
+      <ID>118</ID>
+      <TeamName>USC</TeamName>
+      <TeamPrimaryColor>#990000</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFC72C</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\South_Florida_Bulls_logo-300x300.png</_imageFileName>
+      <ID>119</ID>
+      <TeamName>USF</TeamName>
+      <TeamPrimaryColor>#006747</TeamPrimaryColor>
+      <TeamSecondaryColor>#CFC493</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Utah_Utes_logo-300x300.png</_imageFileName>
+      <ID>120</ID>
+      <TeamName>Utah</TeamName>
+      <TeamPrimaryColor>#CC0000</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Utah_State_Aggies_logo-300x300.png</_imageFileName>
+      <ID>121</ID>
+      <TeamName>Utah State</TeamName>
+      <TeamPrimaryColor>#00263A</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>Pac12</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\UTEP-Miners-logo-300x300.png</_imageFileName>
+      <ID>122</ID>
+      <TeamName>UTEP</TeamName>
+      <TeamPrimaryColor>#041E42</TeamPrimaryColor>
+      <TeamSecondaryColor>#FF8200</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Texas-SA-Roadrunners-logo-300x300.png</_imageFileName>
+      <ID>123</ID>
+      <TeamName>UTSA</TeamName>
+      <TeamPrimaryColor>#0C2340</TeamPrimaryColor>
+      <TeamSecondaryColor>#F15A22</TeamSecondaryColor>
+      <Conference>American</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Vanderbilt_Commodores_logo-300x300.png</_imageFileName>
+      <ID>124</ID>
+      <TeamName>Vanderbilt</TeamName>
+      <TeamPrimaryColor>#000000</TeamPrimaryColor>
+      <TeamSecondaryColor>#866D4B</TeamSecondaryColor>
+      <Conference>SEC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Virginia_Cavaliers_logo-300x300.png</_imageFileName>
+      <ID>125</ID>
+      <TeamName>Virginia</TeamName>
+      <TeamPrimaryColor>#232D4B</TeamPrimaryColor>
+      <TeamSecondaryColor>#F84C1E</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Virginia_Tech_Hokies_logo-300x300.png</_imageFileName>
+      <ID>126</ID>
+      <TeamName>Virginia Tech</TeamName>
+      <TeamPrimaryColor>#630031</TeamPrimaryColor>
+      <TeamSecondaryColor>#CF4420</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Wake_Forest_Demon_Deacons_logo-300x300.png</_imageFileName>
+      <ID>127</ID>
+      <TeamName>Wake Forest</TeamName>
+      <TeamPrimaryColor>#9E7E38</TeamPrimaryColor>
+      <TeamSecondaryColor>#000000</TeamSecondaryColor>
+      <Conference>ACC</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Washington_Huskies_logo-300x300.png</_imageFileName>
+      <ID>128</ID>
+      <TeamName>Washington</TeamName>
+      <TeamPrimaryColor>#4B2E83</TeamPrimaryColor>
+      <TeamSecondaryColor>#B7A57A</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Washington_State_Cougars_logo-300x300.png</_imageFileName>
+      <ID>129</ID>
+      <TeamName>Washington State</TeamName>
+      <TeamPrimaryColor>#981E32</TeamPrimaryColor>
+      <TeamSecondaryColor>#5E6A71</TeamSecondaryColor>
+      <Conference>Pac12</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\West_Virginia_Mountaineers_logo-300x300.png</_imageFileName>
+      <ID>130</ID>
+      <TeamName>West Virginia</TeamName>
+      <TeamPrimaryColor>#002855</TeamPrimaryColor>
+      <TeamSecondaryColor>#EAAA00</TeamSecondaryColor>
+      <Conference>XII</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Western_Kentucky_Hilltoppers_logo-300x300.png</_imageFileName>
+      <ID>131</ID>
+      <TeamName>Western Kentucky</TeamName>
+      <TeamPrimaryColor>#C60C30</TeamPrimaryColor>
+      <TeamSecondaryColor>#1E1E1E</TeamSecondaryColor>
+      <Conference>Cusa</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Western_Michigan_Broncos_logo-300x300.png</_imageFileName>
+      <ID>132</ID>
+      <TeamName>Western Michigan</TeamName>
+      <TeamPrimaryColor>#6C4023</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>Mac</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Wisconsin_Badgers_logo-300x300.png</_imageFileName>
+      <ID>133</ID>
+      <TeamName>Wisconsin</TeamName>
+      <TeamPrimaryColor>#C5050C</TeamPrimaryColor>
+      <TeamSecondaryColor>#FFFFFF</TeamSecondaryColor>
+      <Conference>B10</Conference>
+    </Team>
+    <Team>
+      <_imageFileName>C:\Users\maple\source\repos\College Football Manager\College Football Manager\bin\Debug\net8.0-windows8.0\Icons\Wyoming_Cowboys_logo-300x300.png</_imageFileName>
+      <ID>134</ID>
+      <TeamName>Wyoming</TeamName>
+      <TeamPrimaryColor>#FFC425</TeamPrimaryColor>
+      <TeamSecondaryColor>#492F24</TeamSecondaryColor>
+      <Conference>MWC</Conference>
+    </Team>
+  </Teams>
+  <Games />
+  <Mdata>
+    <Year>0</Year>
+    <Team>1</Team>
+    <Off>0</Off>
+    <Def>0</Def>
+    <Ovr>0</Ovr>
+    <Wins>0</Wins>
+    <ExtraWins>0</ExtraWins>
+    <Losses>0</Losses>
+    <ExtraLosses>0</ExtraLosses>
+    <Bowl>None</Bowl>
+    <Won>false</Won>
+    <Endranking>0</Endranking>
+  </Mdata>
+  <CFPFilePath />
+  <Bowls>
+    <Bowl>
+      <BowlName>68 Ventures Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Alamo Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>AllState Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Arizona Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Armed Forces Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Bahamas Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Birmingham Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Boca Raton Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Camellia Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Championship</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Citrus Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Cotton Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Cure Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Detroit Bowl</BowlName>
+      <WinningTeamID>41</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Duke's Mayo Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Famous Idaho Potato Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Fenway Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Fiesta Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>First Responders Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Frisco Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Gasparilla Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Gator Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Guaranteed Rate Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Hawaii Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Holiday Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Independence Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>LA Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Las Vegas Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Liberty Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Military Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Music City Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Myrtle Beach Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>New Mexico Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>New Orleans Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>None</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Orange Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Peach Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Pop-Tarts Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>R1_G1</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>R1_G2</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>R1_G3</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>R1_G4</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Reliaquest Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Rose Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Sun Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+    <Bowl>
+      <BowlName>Texas Bowl</BowlName>
+      <WinningTeamID>0</WinningTeamID>
+    </Bowl>
+  </Bowls>
+  <FinalRankings>
+    <AP_Poll />
+    <Coaches />
+    <CFP />
+  </FinalRankings>
+  <ConferenceStandings>
+    <ACC />
+    <American />
+    <XII />
+    <B10 />
+    <Cusa />
+    <Independent />
+    <Mac />
+    <MWC />
+    <SEC />
+    <Sunbelt />
+    <Pac12 />
+  </ConferenceStandings>
+  <ConferenceChamps>
+    <ACC>0</ACC>
+    <American>0</American>
+    <B10>0</B10>
+    <Cusa>0</Cusa>
+    <Independent>0</Independent>
+    <Mac>0</Mac>
+    <MWC>0</MWC>
+    <Pac12>0</Pac12>
+    <SEC>0</SEC>
+    <Sunbelt>0</Sunbelt>
+    <XII>0</XII>
+  </ConferenceChamps>
+</MetaData>

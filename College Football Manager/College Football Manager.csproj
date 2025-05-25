@@ -1,0 +1,649 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <RootNamespace>College_Football_Manager</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageIcon>ChatGPT Image Apr 4, 2025, 11_30_44 AM.png</PackageIcon>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>5</WarningLevel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <WarningLevel>5</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\Air_Force_Falcons_logo-300x300.png" />
+    <None Remove="Icons\Akron_Zips_logo-300x300.png" />
+    <None Remove="Icons\Alabama-Birmingham-Blazers-logo-300x300.png" />
+    <None Remove="Icons\Alabama_Crimson_Tide_logo-300x300.png" />
+    <None Remove="Icons\American_Athletic_Conference_logo-300x300.png" />
+    <None Remove="Icons\Appalachian_State_Mountaineers_logo-300x300.png" />
+    <None Remove="Icons\Arizona_State_Sun_Devils_logo-300x300.png" />
+    <None Remove="Icons\Arizona_Wildcats_logo-300x300.png" />
+    <None Remove="Icons\Arkansas_Razorbacks_logo-300x300.png" />
+    <None Remove="Icons\Arkansas_State_Red_Wolves_logo-300x300.png" />
+    <None Remove="Icons\Army_West_Point_Black_Knights_logo-300x300.png" />
+    <None Remove="Icons\Atlantic_Coast_Conference_ACC_logo-300x300.png" />
+    <None Remove="Icons\Auburn_Tigers_logo-300x300.png" />
+    <None Remove="Icons\Ball_State_Cardinals_logo-300x300.png" />
+    <None Remove="Icons\Baylor_Bears_logo-300x300.png" />
+    <None Remove="Icons\Big_12_Conference_logo-300x300.png" />
+    <None Remove="Icons\Big_Ten_Conference_logo-300x300.png" />
+    <None Remove="Icons\Boise_State_Broncos_Logo-300x300.png" />
+    <None Remove="Icons\Boston_College_Eagles_logo-300x300.png" />
+    <None Remove="Icons\Bowling_Green_Falcons_logo-300x300.png" />
+    <None Remove="Icons\Buffalo_Bulls_logo-300x300.png" />
+    <None Remove="Icons\BYU_Cougars_logo-300x300.png" />
+    <None Remove="Icons\California_Golden_Bears_logo-300x300.png" />
+    <None Remove="Icons\Central_Michigan_Chippewas_logo-300x300.png" />
+    <None Remove="Icons\Charlotte_49ers_logo-300x300.png" />
+    <None Remove="Icons\Cincinnati_Bearcats_logo-300x300.png" />
+    <None Remove="Icons\Clemson_Tigers_logo-300x300.png" />
+    <None Remove="Icons\Coastal_Carolina_Chanticleers_logo-300x300.png" />
+    <None Remove="Icons\Colorado_Buffaloes_logo-300x300.png" />
+    <None Remove="Icons\Colorado_State_Rams_logo-300x300.png" />
+    <None Remove="Icons\Conference_USA_logo-300x300.png" />
+    <None Remove="Icons\Connecticut_Huskies_logo-300x300.png" />
+    <None Remove="Icons\Division-I-FBS-Independents-logo-300x300.png" />
+    <None Remove="Icons\Duke_Blue_Devils_logo-300x300.png" />
+    <None Remove="Icons\Eastern_Michigan_Eagles_logo-300x300.png" />
+    <None Remove="Icons\East_Carolina_Pirates_logo-300x300.png" />
+    <None Remove="Icons\FIU-Panthers-Logo-300x300.png" />
+    <None Remove="Icons\Florida_Atlantic_Owls_logo-300x300.png" />
+    <None Remove="Icons\Florida_Gators_logo-300x300.png" />
+    <None Remove="Icons\Florida_State_Seminoles_logo-300x300.png" />
+    <None Remove="Icons\Fresno_State_Bulldogs_logo-300x300.png" />
+    <None Remove="Icons\Georgia_Bulldogs_logo-300x300.png" />
+    <None Remove="Icons\Georgia_Southern_Eagles_logo-300x300.png" />
+    <None Remove="Icons\Georgia_State_Panthers_logo-300x300.png" />
+    <None Remove="Icons\Georgia_Tech_Yellow_Jackets_logo-300x300.png" />
+    <None Remove="Icons\Hawaii_Rainbow_Warriors_logo-300x300.png" />
+    <None Remove="Icons\Houston_Cougars_logo-300x300.png" />
+    <None Remove="Icons\Illinois_Fighting_Illini_logo-300x300.png" />
+    <None Remove="Icons\Indiana_Hoosiers_logo-300x300.png" />
+    <None Remove="Icons\Iowa_Hawkeyes_logo-300x300.png" />
+    <None Remove="Icons\Iowa_State_Cyclones_logo-300x300.png" />
+    <None Remove="Icons\Jacksonville-State-Gamecocks-logo-300x300.png" />
+    <None Remove="Icons\James_Madison_Dukes_logo-300x300.png" />
+    <None Remove="Icons\Kansas_Jayhawks_logo-300x300.png" />
+    <None Remove="Icons\Kansas_State_Wildcats_logo-300x300.png" />
+    <None Remove="Icons\Kennesaw-State-Owls-logo-300x300.png" />
+    <None Remove="Icons\Kentucky_Wildcats_logo-300x300.png" />
+    <None Remove="Icons\Kent_State_Golden_Flashes-300x300.png" />
+    <None Remove="Icons\Liberty_Flames_logo-300x300.png" />
+    <None Remove="Icons\Louisiana-Lafayette_Ragin_Cajuns_logo-300x300.png" />
+    <None Remove="Icons\Louisiana-Monroe_Warhawks_logo-300x300.png" />
+    <None Remove="Icons\Louisiana_Tech_Bulldogs_logo-300x300.png" />
+    <None Remove="Icons\Louisville_Cardinals_logo-300x300.png" />
+    <None Remove="Icons\LSU_Tigers-300x300.png" />
+    <None Remove="Icons\Marshall_Thundering_Herd_logo-300x300.png" />
+    <None Remove="Icons\Maryland_Terrapins_logo-300x300.png" />
+    <None Remove="Icons\Memphis_Tigers_logo-300x300.png" />
+    <None Remove="Icons\Miami_Hurricanes_logo-300x300.png" />
+    <None Remove="Icons\Miami_OH_Redhawks_logo-300x300.png" />
+    <None Remove="Icons\Michigan_State_Spartans_logo-300x300.png" />
+    <None Remove="Icons\Michigan_Wolverines_logo-300x300.png" />
+    <None Remove="Icons\Mid-American_Conference_logo-300x300.png" />
+    <None Remove="Icons\Middle-Tennessee-Blue-Raiders-logo-300x300.png" />
+    <None Remove="Icons\Minnesota_Golden_Gophers_logo-300x300.png" />
+    <None Remove="Icons\Mississippi_State_Bulldogs_logo-300x300.png" />
+    <None Remove="Icons\Missouri_Tigers_logo-300x300.png" />
+    <None Remove="Icons\Mountain_West_Conference_logo-300x300.png" />
+    <None Remove="Icons\Navy_Midshipmen_logo-300x300.png" />
+    <None Remove="Icons\Nebraska_Cornhuskers_logo-300x300.png" />
+    <None Remove="Icons\Nevada_Wolf_Pack_logo-300x300.png" />
+    <None Remove="Icons\New_Mexico_Lobos_logo-300x300.png" />
+    <None Remove="Icons\New_Mexico_State_Aggies_logo-300x300.png" />
+    <None Remove="Icons\Northern_Illinois_Huskies-300x300.png" />
+    <None Remove="Icons\Northwestern_Wildcats_logo-300x300.png" />
+    <None Remove="Icons\North_Carolina_State_Wolfpack_logo-300x300.png" />
+    <None Remove="Icons\North_Carolina_Tar_Heels_logo-300x300.png" />
+    <None Remove="Icons\North_Texas_Mean_Green_logo-300x300.png" />
+    <None Remove="Icons\Notre_Dame_Fighting_Irish_logo-300x300.png" />
+    <None Remove="Icons\Ohio_Bobcats_logo-300x300.png" />
+    <None Remove="Icons\Ohio_State_Buckeyes_logo-300x300.png" />
+    <None Remove="Icons\Oklahoma_Sooners_logo-300x300.png" />
+    <None Remove="Icons\Oklahoma_State_Cowboys_logo-300x300.png" />
+    <None Remove="Icons\Old_Dominion_Monarchs_logo-300x300.png" />
+    <None Remove="Icons\Ole_Miss_Rebels_logo-300x300.png" />
+    <None Remove="Icons\Oregon_Ducks_logo-300x300.png" />
+    <None Remove="Icons\Oregon_State_Beavers_logo-300x300.png" />
+    <None Remove="Icons\Pac-12_logo-300x300.png" />
+    <None Remove="Icons\Penn_State_Nittany_Lions_logo-300x300.png" />
+    <None Remove="Icons\Pitt_Panthers_logo-300x300.png" />
+    <None Remove="Icons\Purdue_Boilermakers_logo-300x300.png" />
+    <None Remove="Icons\Rice_Owls_logo-300x300.png" />
+    <None Remove="Icons\Rutgers_Scarlet_Knights_logo-300x300.png" />
+    <None Remove="Icons\Sam-Houston-State-Bearkats-logo-300x300.png" />
+    <None Remove="Icons\San_Diego_State_Aztecs_logo-300x300.png" />
+    <None Remove="Icons\San_Jose_State_Spartans_logo-300x300.png" />
+    <None Remove="Icons\SMU_Mustang_logo-300x300.png" />
+    <None Remove="Icons\Southeastern_Conference_logo-300x300.png" />
+    <None Remove="Icons\Southern_Miss_Golden_Eagles_logo-300x300.png" />
+    <None Remove="Icons\South_Alabama_Jaguars_logo-300x300.png" />
+    <None Remove="Icons\South_Carolina_Gamecocks_logo-300x300.png" />
+    <None Remove="Icons\South_Florida_Bulls_logo-300x300.png" />
+    <None Remove="Icons\Stanford_Cardinal_logo-300x300.png" />
+    <None Remove="Icons\Sun_Belt_Conference_2020_logo-300x300.png" />
+    <None Remove="Icons\Syracuse_Orange_logo-300x300.png" />
+    <None Remove="Icons\TCU_Horned_Frogs_logo-300x300.png" />
+    <None Remove="Icons\Temple_Owls_logo-300x300.png" />
+    <None Remove="Icons\Tennessee_Volunteers_logo-300x300.png" />
+    <None Remove="Icons\Texas-SA-Roadrunners-logo-300x300.png" />
+    <None Remove="Icons\Texas_AM_University_logo-300x300.png" />
+    <None Remove="Icons\Texas_Longhorns_logo-300x300.png" />
+    <None Remove="Icons\Texas_State_Bobcats_logo-300x300.png" />
+    <None Remove="Icons\Texas_Tech_Red_Raiders_logo-300x300.png" />
+    <None Remove="Icons\Toledo_Rockets_logo-300x300.png" />
+    <None Remove="Icons\Troy_Trojans_logo-300x300.png" />
+    <None Remove="Icons\Tulane_Green_Wave_logo-300x300.png" />
+    <None Remove="Icons\Tulsa_Golden_Hurricane_logo-300x300.png" />
+    <None Remove="Icons\UCF_Knights_logo-300x300.png" />
+    <None Remove="Icons\UCLA_Bruins-300x300.png" />
+    <None Remove="Icons\UMass_Amherst_Minutemen_logo-300x300.png" />
+    <None Remove="Icons\UNLV_Rebels_logo-300x300.png" />
+    <None Remove="Icons\USC_Trojans_logo-300x300.png" />
+    <None Remove="Icons\Utah_State_Aggies_logo-300x300.png" />
+    <None Remove="Icons\Utah_Utes_logo-300x300.png" />
+    <None Remove="Icons\UTEP-Miners-logo-300x300.png" />
+    <None Remove="Icons\Vanderbilt_Commodores_logo-300x300.png" />
+    <None Remove="Icons\Virginia_Cavaliers_logo-300x300.png" />
+    <None Remove="Icons\Virginia_Tech_Hokies_logo-300x300.png" />
+    <None Remove="Icons\Wake_Forest_Demon_Deacons_logo-300x300.png" />
+    <None Remove="Icons\Washington_Huskies_logo-300x300.png" />
+    <None Remove="Icons\Washington_State_Cougars_logo-300x300.png" />
+    <None Remove="Icons\Western_Kentucky_Hilltoppers_logo-300x300.png" />
+    <None Remove="Icons\Western_Michigan_Broncos_logo-300x300.png" />
+    <None Remove="Icons\West_Virginia_Mountaineers_logo-300x300.png" />
+    <None Remove="Icons\Wisconsin_Badgers_logo-300x300.png" />
+    <None Remove="Icons\Wyoming_Cowboys_logo-300x300.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Icons\Air_Force_Falcons_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Akron_Zips_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Alabama-Birmingham-Blazers-logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Alabama_Crimson_Tide_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\American_Athletic_Conference_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Appalachian_State_Mountaineers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Arizona_State_Sun_Devils_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Arizona_Wildcats_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Arkansas_Razorbacks_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Arkansas_State_Red_Wolves_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Army_West_Point_Black_Knights_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Atlantic_Coast_Conference_ACC_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Auburn_Tigers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Ball_State_Cardinals_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Baylor_Bears_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Big_12_Conference_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Big_Ten_Conference_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Boise_State_Broncos_Logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Boston_College_Eagles_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Bowling_Green_Falcons_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Buffalo_Bulls_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\BYU_Cougars_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\California_Golden_Bears_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Central_Michigan_Chippewas_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Charlotte_49ers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Cincinnati_Bearcats_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Clemson_Tigers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Coastal_Carolina_Chanticleers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Colorado_Buffaloes_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Colorado_State_Rams_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Conference_USA_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Connecticut_Huskies_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Division-I-FBS-Independents-logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Duke_Blue_Devils_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Eastern_Michigan_Eagles_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\East_Carolina_Pirates_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\FIU-Panthers-Logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Florida_Atlantic_Owls_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Florida_Gators_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Florida_State_Seminoles_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Fresno_State_Bulldogs_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Georgia_Bulldogs_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Georgia_Southern_Eagles_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Georgia_State_Panthers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Georgia_Tech_Yellow_Jackets_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Hawaii_Rainbow_Warriors_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Houston_Cougars_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Illinois_Fighting_Illini_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Indiana_Hoosiers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Iowa_Hawkeyes_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Iowa_State_Cyclones_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Jacksonville-State-Gamecocks-logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\James_Madison_Dukes_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Kansas_Jayhawks_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Kansas_State_Wildcats_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Kennesaw-State-Owls-logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Kentucky_Wildcats_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Kent_State_Golden_Flashes-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Liberty_Flames_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Louisiana-Lafayette_Ragin_Cajuns_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Louisiana-Monroe_Warhawks_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Louisiana_Tech_Bulldogs_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Louisville_Cardinals_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\LSU_Tigers-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Marshall_Thundering_Herd_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Maryland_Terrapins_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Memphis_Tigers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Miami_Hurricanes_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Miami_OH_Redhawks_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Michigan_State_Spartans_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Michigan_Wolverines_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Mid-American_Conference_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Middle-Tennessee-Blue-Raiders-logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Minnesota_Golden_Gophers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Mississippi_State_Bulldogs_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Missouri_Tigers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Mountain_West_Conference_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Navy_Midshipmen_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Nebraska_Cornhuskers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Nevada_Wolf_Pack_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\New_Mexico_Lobos_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\New_Mexico_State_Aggies_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Northern_Illinois_Huskies-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Northwestern_Wildcats_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\North_Carolina_State_Wolfpack_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\North_Carolina_Tar_Heels_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\North_Texas_Mean_Green_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Notre_Dame_Fighting_Irish_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Ohio_Bobcats_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Ohio_State_Buckeyes_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Oklahoma_Sooners_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Oklahoma_State_Cowboys_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Old_Dominion_Monarchs_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Ole_Miss_Rebels_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Oregon_Ducks_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Oregon_State_Beavers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Pac-12_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Penn_State_Nittany_Lions_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Pitt_Panthers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Purdue_Boilermakers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Rice_Owls_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Rutgers_Scarlet_Knights_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Sam-Houston-State-Bearkats-logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\San_Diego_State_Aztecs_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\San_Jose_State_Spartans_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\SMU_Mustang_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Southeastern_Conference_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Southern_Miss_Golden_Eagles_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\South_Alabama_Jaguars_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\South_Carolina_Gamecocks_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\South_Florida_Bulls_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Stanford_Cardinal_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Sun_Belt_Conference_2020_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Syracuse_Orange_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\TCU_Horned_Frogs_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Temple_Owls_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Tennessee_Volunteers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Texas-SA-Roadrunners-logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Texas_AM_University_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Texas_Longhorns_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Texas_State_Bobcats_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Texas_Tech_Red_Raiders_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Toledo_Rockets_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Troy_Trojans_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Tulane_Green_Wave_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Tulsa_Golden_Hurricane_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\UCF_Knights_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\UCLA_Bruins-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\UMass_Amherst_Minutemen_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\UNLV_Rebels_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\USC_Trojans_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Utah_State_Aggies_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Utah_Utes_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\UTEP-Miners-logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Vanderbilt_Commodores_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Virginia_Cavaliers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Virginia_Tech_Hokies_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Wake_Forest_Demon_Deacons_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Washington_Huskies_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Washington_State_Cougars_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Western_Kentucky_Hilltoppers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Western_Michigan_Broncos_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\West_Virginia_Mountaineers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Wisconsin_Badgers_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Icons\Wyoming_Cowboys_logo-300x300.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\ChatGPT Image Apr 4, 2025, 11_30_44 AM.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="CFPImages\ReadMe.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Template.db3">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Years\Readme.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Years\Template.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "College Football Manager", "College Football Manager\College Football Manager.csproj", "{4E07578B-57F6-4E60-AD75-B96D54514904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E07578B-57F6-4E60-AD75-B96D54514904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E07578B-57F6-4E60-AD75-B96D54514904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E07578B-57F6-4E60-AD75-B96D54514904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E07578B-57F6-4E60-AD75-B96D54514904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BEB25E6-60C2-4D30-83DB-801C0C31C271}
+	EndGlobalSection
+EndGlobal
