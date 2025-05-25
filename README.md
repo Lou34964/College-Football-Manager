@@ -2,6 +2,8 @@
 
 A desktop application for managing college football seasons, teams, rankings, and coaching careers. Designed to simulate the experience of running a college football program, tracking stats, team changes, and bowl outcomes over multiple years.
 
+NOTE: If you have issues runing the app please report it in the issues tab.
+
 ## 🛠 Tech Stack
 
 - C#
