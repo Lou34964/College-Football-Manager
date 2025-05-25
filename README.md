@@ -37,7 +37,12 @@ This project is **non-commercial** and intended for **educational/personal use o
 
 ## 📸 Screenshots
 
-> *(Insert screenshots or animated GIFs here if possible)*
+<img src="./Screenshots/Games.png" width="600">
+<img src="./Screenshots/Standings.png" width="600">
+<img src="./Screenshots/Rankings.png" width="600">
+<img src="./Screenshots/Bowls.png" width="600">
+<img src="./Screenshots/CFP.png" width="600">
+<img src="./Screenshots/Legacy.png" width="600">
 
 ## 🚀 Getting Started
 
